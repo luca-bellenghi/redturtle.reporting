@@ -29,7 +29,7 @@ setup(name='redturtle.reporting',
           'Products.PloneFormGen',
           'uwosh.pfg.d2c',
           'collective.geo.bundle',
-          # -*- Extra requirements: -*-
+          'Products.DataGridField',
       ],
       entry_points="""
       # -*- Entry points: -*-

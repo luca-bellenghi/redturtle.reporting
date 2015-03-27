@@ -6,7 +6,7 @@ from Products.CMFCore import utils
 from redturtle.reporting import config
 from zope.i18nmessageid import MessageFactory
 
-signupsheetMessageFactory = MessageFactory('redturtle.reporting')
+rrmf = MessageFactory('redturtle.reporting')
 pmf = MessageFactory('plone')
 
 #ModuleSecurityInfo('collective.signupsheet').declarePublic('signupsheetMessageFactory')

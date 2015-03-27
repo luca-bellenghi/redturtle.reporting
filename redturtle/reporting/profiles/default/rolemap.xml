@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rolemap>
   <permissions>
-    <permission name="Traker: redturtle.redturtle "
+    <permission name="redturtle.reporting: Add Traker"
                 acquire="False">
       <role name="Manager"/>
       <role name="Contributor"/>

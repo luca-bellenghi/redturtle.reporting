@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from zope.implements import Interface
+from zope.interface import Interface
 
 
 class ITracker(Interface):

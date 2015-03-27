@@ -7,5 +7,5 @@ logger = logging.getLogger(PROJECTNAME)
 
 
 ADD_PERMISSIONS = {
-    'Traker': PROJECTNAME + ': Add Traker',
+    'Tracker': PROJECTNAME + ': Add Traker',
 }
